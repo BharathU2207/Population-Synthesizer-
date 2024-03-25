@@ -1,0 +1,15 @@
+Sex
+Female: 24293
+Male: 25707
+
+Age_category
+Below 22 years: 17857
+22-60 years: 29336
+Above 60 years: 2807
+
+Highest_education_level
+No formal education: 7996
+Graduation and above: 11057
+Primary education: 6518
+Secondary education: 24429
+
